@@ -1,0 +1,2780 @@
+.element-shop-grid {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-shop-grid .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 3489px;
+  position: relative;
+}
+
+.element-shop-grid .footer {
+  position: absolute;
+  width: 1920px;
+  height: 532px;
+  top: 2957px;
+  left: 0;
+  background-color: #f6f6f7;
+}
+
+.element-shop-grid .bottom {
+  position: absolute;
+  width: 1455px;
+  height: 61px;
+  top: 458px;
+  left: 230px;
+}
+
+.element-shop-grid .copyright {
+  position: absolute;
+  height: 18px;
+  top: 28px;
+  left: 1139px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper {
+  color: #1a1a1a;
+}
+
+.element-shop-grid .span {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.element-shop-grid .text-wrapper-2 {
+  position: absolute;
+  width: 118px;
+  height: 6px;
+  top: 34px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .bg {
+  position: absolute;
+  width: 1450px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  background-color: #ddddde;
+}
+
+.element-shop-grid .screenshot {
+  position: absolute;
+  width: 321px;
+  height: 49px;
+  top: 12px;
+  left: 125px;
+  object-fit: cover;
+}
+
+.element-shop-grid .info-bar {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  top: 60px;
+  left: 240px;
+  background-image: url(https://c.animaapp.com/m98dzpx5h8Fggg/img/line-3.svg);
+  background-size: 100% 100%;
+}
+
+.element-shop-grid .line {
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+  left: 360px;
+}
+
+.element-shop-grid .img {
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+  left: 691px;
+}
+
+.element-shop-grid .line-2 {
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+  left: 1062px;
+}
+
+.element-shop-grid .element {
+  position: absolute;
+  width: 258px;
+  height: 36px;
+  top: 27px;
+  left: 40px;
+}
+
+.element-shop-grid .free-shipping-free {
+  position: absolute;
+  width: 206px;
+  height: 32px;
+  top: 2px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-shop-grid .text-wrapper-3 {
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 20px;
+}
+
+.element-shop-grid .text-wrapper-4 {
+  color: #74787c;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.element-shop-grid .img-2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-shop-grid .element-2 {
+  position: absolute;
+  width: 204px;
+  height: 32px;
+  top: 29px;
+  left: 425px;
+}
+
+.element-shop-grid .free-returns-days {
+  position: absolute;
+  width: 152px;
+  height: 32px;
+  top: 0;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-shop-grid .delivery-van {
+  position: absolute;
+  width: 36px;
+  height: 27px;
+  top: 3px;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-shop-grid .element-3 {
+  position: absolute;
+  width: 244px;
+  height: 36px;
+  top: 26px;
+  left: 756px;
+}
+
+.element-shop-grid .secured-payments-we {
+  position: absolute;
+  width: 192px;
+  height: 32px;
+  top: 3px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-shop-grid .element-4 {
+  position: absolute;
+  width: 218px;
+  height: 36px;
+  top: 26px;
+  left: 1127px;
+}
+
+.element-shop-grid .customer-service-top {
+  position: absolute;
+  width: 162px;
+  height: 32px;
+  top: 3px;
+  left: 54px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-shop-grid .element-hours {
+  position: absolute;
+  width: 44px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-shop-grid .element-5 {
+  position: absolute;
+  width: 269px;
+  height: 188px;
+  top: 210px;
+  left: 240px;
+}
+
+.element-shop-grid .text-wrapper-5 {
+  width: 95px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .monday-friday {
+  position: absolute;
+  width: 243px;
+  height: 11px;
+  top: 121px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-6 {
+  color: #74787c;
+}
+
+.element-shop-grid .text-wrapper-7 {
+  font-weight: 500;
+  color: #1a1a1a;
+}
+
+.element-shop-grid .saturday {
+  position: absolute;
+  width: 193px;
+  height: 11px;
+  top: 149px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .sunday-service-close {
+  position: absolute;
+  width: 156px;
+  height: 11px;
+  top: 177px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .call {
+  position: absolute;
+  width: 263px;
+  height: 50px;
+  top: 41px;
+  left: 0;
+}
+
+.element-shop-grid .group {
+  position: absolute;
+  width: 200px;
+  height: 39px;
+  top: 6px;
+  left: 65px;
+}
+
+.element-shop-grid .p {
+  position: absolute;
+  width: 176px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-8 {
+  position: absolute;
+  width: 196px;
+  height: 17px;
+  top: 22px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #e53e3e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .overlap-group {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.element-shop-grid .text-wrapper-9 {
+  height: 18px;
+  top: 16px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  color: #e53e3e;
+  font-size: 18px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .element-6 {
+  position: absolute;
+  width: 406px;
+  height: 174px;
+  top: 210px;
+  left: 1279px;
+}
+
+.element-shop-grid .form {
+  position: absolute;
+  width: 402px;
+  height: 50px;
+  top: 94px;
+  left: 0;
+}
+
+.element-shop-grid .overlap {
+  position: relative;
+  width: 400px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e4e5ee;
+}
+
+.element-shop-grid .btn {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 109px;
+  height: 36px;
+  top: 6px;
+  left: 285px;
+}
+
+.element-shop-grid .subscribe-wrapper {
+  position: relative;
+  width: 107px;
+  height: 36px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element-shop-grid .subscribe {
+  position: absolute;
+  height: 15px;
+  top: 11px;
+  left: 19px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-10 {
+  position: absolute;
+  height: 20px;
+  top: 14px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-11 {
+  width: 121px;
+  left: 1px;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-12 {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  top: 41px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-shop-grid .text-wrapper-13 {
+  position: absolute;
+  width: 267px;
+  height: 10px;
+  top: 164px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element-shop-grid .element-7 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 1040px;
+}
+
+.element-shop-grid .text-wrapper-14 {
+  position: absolute;
+  height: 160px;
+  top: 37px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.element-shop-grid .element-8 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 801px;
+}
+
+.element-shop-grid .text-wrapper-15 {
+  position: absolute;
+  width: 132px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .element-9 {
+  position: absolute;
+  width: 90px;
+  height: 197px;
+  top: 210px;
+  left: 608px;
+}
+
+.element-shop-grid .text-wrapper-16 {
+  width: 86px;
+  left: 0;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .shop {
+  position: absolute;
+  width: 1440px;
+  height: 2280px;
+  top: 577px;
+  left: 240px;
+}
+
+.element-shop-grid .top-bar {
+  position: absolute;
+  width: 1076px;
+  height: 50px;
+  top: 0;
+  left: 0;
+}
+
+.element-shop-grid .short {
+  position: absolute;
+  width: 180px;
+  height: 50px;
+  top: 0;
+  left: 896px;
+}
+
+.element-shop-grid .default-sorting-wrapper {
+  position: relative;
+  width: 178px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .default-sorting {
+  position: absolute;
+  height: 23px;
+  top: 12px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-17 {
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .text-wrapper-18 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+}
+
+.element-shop-grid .text-wrapper-19 {
+  position: absolute;
+  height: 23px;
+  top: 14px;
+  left: 125px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .view-system {
+  position: absolute;
+  width: 95px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-10 {
+  position: absolute;
+  width: 20px;
+  height: 17px;
+  top: 15px;
+  left: 54px;
+}
+
+.element-shop-grid .bg-2 {
+  position: absolute;
+  width: 14px;
+  height: 3px;
+  top: 0;
+  left: 6px;
+  background-color: #b4b4b4;
+}
+
+.element-shop-grid .bg-3 {
+  position: absolute;
+  width: 14px;
+  height: 3px;
+  top: 7px;
+  left: 6px;
+  background-color: #b4b4b4;
+}
+
+.element-shop-grid .bg-4 {
+  position: absolute;
+  width: 14px;
+  height: 3px;
+  top: 14px;
+  left: 6px;
+  background-color: #b4b4b4;
+}
+
+.element-shop-grid .bg-5 {
+  position: absolute;
+  width: 4px;
+  height: 3px;
+  top: 0;
+  left: 0;
+  background-color: #b4b4b4;
+}
+
+.element-shop-grid .bg-6 {
+  position: absolute;
+  width: 4px;
+  height: 3px;
+  top: 7px;
+  left: 0;
+  background-color: #b4b4b4;
+}
+
+.element-shop-grid .bg-7 {
+  position: absolute;
+  width: 4px;
+  height: 3px;
+  top: 14px;
+  left: 0;
+  background-color: #b4b4b4;
+}
+
+.element-shop-grid .element-11 {
+  position: absolute;
+  width: 20px;
+  height: 17px;
+  top: 15px;
+  left: 19px;
+}
+
+.element-shop-grid .bg-8 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 0;
+  left: 15px;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-9 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 7px;
+  left: 15px;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-10 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 14px;
+  left: 15px;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-11 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 0;
+  left: 8px;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-12 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 7px;
+  left: 8px;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-13 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 14px;
+  left: 8px;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-14 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 0;
+  left: 0;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-15 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 7px;
+  left: 0;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .bg-16 {
+  position: absolute;
+  width: 5px;
+  height: 3px;
+  top: 14px;
+  left: 0;
+  background-color: #1a1a1a;
+}
+
+.element-shop-grid .sidebar {
+  position: absolute;
+  width: 342px;
+  height: 1819px;
+  top: 0;
+  left: 1098px;
+}
+
+.element-shop-grid .latest-products {
+  position: absolute;
+  width: 342px;
+  height: 408px;
+  top: 1411px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #1a1a1a12;
+}
+
+.element-shop-grid .element-12 {
+  position: absolute;
+  width: 259px;
+  height: 85px;
+  top: 92px;
+  left: 29px;
+}
+
+.element-shop-grid .img-3 {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 3px;
+}
+
+.element-shop-grid .content {
+  position: absolute;
+  width: 158px;
+  height: 60px;
+  top: 13px;
+  left: 105px;
+}
+
+.element-shop-grid .text-wrapper-20 {
+  position: absolute;
+  width: 154px;
+  height: 11px;
+  top: 22px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .rating {
+  width: 74px;
+  top: 0;
+  position: absolute;
+  height: 10px;
+  left: 0;
+}
+
+.element-shop-grid .star {
+  position: relative;
+  width: 84px;
+  height: 10px;
+}
+
+.element-shop-grid .text-wrapper-21 {
+  width: 14px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .text-wrapper-22 {
+  width: 14px;
+  height: 10px;
+  top: 0;
+  left: 15px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .text-wrapper-23 {
+  width: 14px;
+  height: 10px;
+  top: 0;
+  left: 30px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .text-wrapper-24 {
+  width: 14px;
+  height: 10px;
+  top: 0;
+  left: 45px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .text-wrapper-25 {
+  width: 14px;
+  height: 10px;
+  top: 0;
+  left: 60px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .text-wrapper-26 {
+  width: 55px;
+  height: 10px;
+  top: 50px;
+  left: 0;
+  font-weight: 600;
+  font-size: 14px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .element-13 {
+  position: absolute;
+  width: 259px;
+  height: 85px;
+  top: 192px;
+  left: 29px;
+}
+
+.element-shop-grid .element-14 {
+  position: absolute;
+  width: 259px;
+  height: 85px;
+  top: 292px;
+  left: 29px;
+}
+
+.element-shop-grid .title {
+  width: 284px;
+  height: 33px;
+  position: absolute;
+  top: 29px;
+  left: 29px;
+}
+
+.element-shop-grid .line-3 {
+  position: absolute;
+  width: 282px;
+  height: 1px;
+  top: 32px;
+  left: 0;
+  background-color: #e7e7e7;
+}
+
+.element-shop-grid .text-wrapper-27 {
+  position: absolute;
+  width: 124px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .brands {
+  width: 342px;
+  height: 290px;
+  top: 1091px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #1a1a1a12;
+  position: absolute;
+  left: 0;
+}
+
+.element-shop-grid .check {
+  width: 289px;
+  height: 162px;
+  top: 91px;
+  position: absolute;
+  left: 29px;
+}
+
+.element-shop-grid .juliate-h-m-macro {
+  position: absolute;
+  width: 61px;
+  height: 156px;
+  top: 4px;
+  left: 33px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.element-shop-grid .element-15 {
+  width: 29px;
+  height: 156px;
+  top: 4px;
+  left: 256px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: 36px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .bg-17 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 144px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-18 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 108px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-19 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 72px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-20 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 36px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-21 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .text-wrapper-28 {
+  width: 57px;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+}
+
+.element-shop-grid .color {
+  position: absolute;
+  width: 342px;
+  height: 438px;
+  top: 623px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #1a1a1a12;
+}
+
+.element-shop-grid .element-16 {
+  position: absolute;
+  width: 286px;
+  height: 62px;
+  top: 61px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-29 {
+  position: absolute;
+  width: 18px;
+  height: 11px;
+  top: 26px;
+  left: 32px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-30 {
+  width: 27px;
+  height: 11px;
+  top: 26px;
+  left: 255px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .bg-22 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 21px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e2e2e2;
+}
+
+.element-shop-grid .line-4 {
+  position: absolute;
+  width: 282px;
+  height: 1px;
+  top: 61px;
+  left: 0;
+  background-color: #e7e7e7;
+}
+
+.element-shop-grid .line-5 {
+  position: absolute;
+  width: 282px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  background-color: #e7e7e7;
+}
+
+.element-shop-grid .element-17 {
+  position: absolute;
+  width: 286px;
+  height: 41px;
+  top: 143px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-31 {
+  width: 9px;
+  height: 11px;
+  top: 5px;
+  left: 32px;
+  font-weight: 400;
+  font-size: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-32 {
+  width: 27px;
+  height: 11px;
+  top: 5px;
+  left: 255px;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .bg-23 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e2e2e2;
+}
+
+.element-shop-grid .line-6 {
+  position: absolute;
+  width: 282px;
+  height: 1px;
+  top: 40px;
+  left: 0;
+  background-color: #e7e7e7;
+}
+
+.element-shop-grid .element-18 {
+  position: absolute;
+  width: 288px;
+  height: 41px;
+  top: 204px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-33 {
+  position: absolute;
+  width: 37px;
+  height: 11px;
+  top: 5px;
+  left: 32px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-34 {
+  width: 35px;
+  height: 11px;
+  top: 5px;
+  left: 249px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .element-19 {
+  position: absolute;
+  width: 286px;
+  height: 41px;
+  top: 265px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-35 {
+  width: 8px;
+  height: 11px;
+  top: 5px;
+  left: 32px;
+  font-weight: 400;
+  font-size: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-36 {
+  width: 28px;
+  height: 11px;
+  top: 5px;
+  left: 254px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .element-20 {
+  position: absolute;
+  width: 287px;
+  height: 41px;
+  top: 326px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-37 {
+  position: absolute;
+  width: 17px;
+  height: 11px;
+  top: 5px;
+  left: 32px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-38 {
+  width: 28px;
+  height: 11px;
+  top: 5px;
+  left: 255px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .element-21 {
+  position: absolute;
+  width: 286px;
+  height: 20px;
+  top: 387px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-39 {
+  position: absolute;
+  width: 75px;
+  height: 11px;
+  top: 5px;
+  left: 32px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .div-wrapper {
+  width: 78px;
+  height: 12px;
+  position: absolute;
+  top: 29px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-40 {
+  position: absolute;
+  width: 76px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .filter-by-price {
+  position: absolute;
+  width: 346px;
+  height: 170px;
+  top: 423px;
+  left: 0;
+}
+
+.element-shop-grid .overlap-2 {
+  position: relative;
+  width: 342px;
+  height: 170px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #1a1a1a12;
+}
+
+.element-shop-grid .text-wrapper-41 {
+  position: absolute;
+  width: 122px;
+  height: 11px;
+  top: 127px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .filter {
+  position: absolute;
+  width: 53px;
+  height: 11px;
+  top: 127px;
+  left: 258px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-42 {
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+}
+
+.element-shop-grid .filter-line {
+  position: absolute;
+  width: 282px;
+  height: 15px;
+  top: 92px;
+  left: 29px;
+}
+
+.element-shop-grid .overlap-group-2 {
+  position: relative;
+  height: 15px;
+}
+
+.element-shop-grid .bg-24 {
+  position: absolute;
+  width: 282px;
+  height: 5px;
+  top: 5px;
+  left: 0;
+  background-color: #e53e3e;
+}
+
+.element-shop-grid .dot {
+  left: 0;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e53e3e;
+}
+
+.element-shop-grid .bg-25 {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  top: 4px;
+  left: 4px;
+  background-color: #e53e3e;
+}
+
+.element-shop-grid .bg-wrapper {
+  left: 267px;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e53e3e;
+}
+
+.element-shop-grid .text-wrapper-43 {
+  position: absolute;
+  width: 114px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .categories {
+  width: 342px;
+  height: 393px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #1a1a1a12;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.element-shop-grid .check-2 {
+  width: 199px;
+  height: 270px;
+  top: 92px;
+  position: absolute;
+  left: 29px;
+}
+
+.element-shop-grid .accessories-badge {
+  position: absolute;
+  width: 165px;
+  height: 262px;
+  top: 3px;
+  left: 32px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.element-shop-grid .bg-26 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 252px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-27 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 216px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-28 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 180px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-29 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 144px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-30 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 108px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-31 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 72px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-32 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 36px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .bg-33 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e3e3e3;
+}
+
+.element-shop-grid .text-wrapper-44 {
+  width: 89px;
+  height: 12px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.element-shop-grid .element-22 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 80px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .div-2 {
+  position: absolute;
+  width: 342px;
+  height: 350px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 6px 6px 0px 0px;
+}
+
+.element-shop-grid .btns {
+  position: absolute;
+  width: 40px;
+  height: 140px;
+  top: 30px;
+  left: 272px;
+}
+
+.element-shop-grid .overlap-group-wrapper {
+  position: absolute;
+  width: 42px;
+  height: 40px;
+  top: 50px;
+  left: 0;
+}
+
+.element-shop-grid .overlap-group-3 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+
+.element-shop-grid .text-wrapper-45 {
+  height: 16px;
+  top: 13px;
+  left: 12px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .overlap-wrapper {
+  position: absolute;
+  width: 42px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.element-shop-grid .text-wrapper-46 {
+  height: 16px;
+  top: 12px;
+  left: 13px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .element-23 {
+  position: absolute;
+  width: 42px;
+  height: 40px;
+  top: 100px;
+  left: 0;
+}
+
+.element-shop-grid .text-wrapper-47 {
+  height: 16px;
+  top: 13px;
+  left: 11px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .tag {
+  position: absolute;
+  width: 52px;
+  height: 24px;
+  top: 30px;
+  left: 30px;
+}
+
+.element-shop-grid .overlap-group-4 {
+  position: relative;
+  width: 50px;
+  height: 24px;
+  background-color: #e53e3e;
+  border-radius: 100px;
+}
+
+.element-shop-grid .text-wrapper-48 {
+  position: absolute;
+  height: 16px;
+  top: 4px;
+  left: 12px;
+  font-family: "Red Hat Display", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .content-2 {
+  position: absolute;
+  width: 234px;
+  height: 97px;
+  top: 379px;
+  left: 29px;
+}
+
+.element-shop-grid .text-wrapper-49 {
+  position: absolute;
+  width: 228px;
+  height: 13px;
+  top: 21px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-50 {
+  width: 65px;
+  height: 11px;
+  top: 86px;
+  left: 0;
+  font-weight: 600;
+  font-size: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .levi-s-cotton {
+  position: absolute;
+  width: 84px;
+  height: 9px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .rating-2 {
+  width: 158px;
+  top: 51px;
+  position: absolute;
+  height: 10px;
+  left: 0;
+}
+
+.element-shop-grid .overlap-group-5 {
+  position: relative;
+  width: 156px;
+  height: 10px;
+}
+
+.element-shop-grid .text-wrapper-51 {
+  position: absolute;
+  width: 74px;
+  height: 10px;
+  top: 0;
+  left: 82px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .star-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 84px;
+  height: 10px;
+}
+
+.element-shop-grid .element-24 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 80px;
+  left: 366px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .tag-2 {
+  position: relative;
+  width: 52px;
+  height: 24px;
+  top: 30px;
+  left: 30px;
+}
+
+.element-shop-grid .element-25 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 611px;
+  left: 366px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .tag-wrapper {
+  position: absolute;
+  width: 342px;
+  height: 350px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.element-shop-grid .element-26 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 1142px;
+  left: 366px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-27 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 1673px;
+  left: 366px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-28 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 80px;
+  left: 732px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-29 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 611px;
+  left: 732px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-30 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 1142px;
+  left: 732px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-31 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 1673px;
+  left: 732px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-32 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 611px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .element-33 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 1142px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .overlap-3 {
+  position: absolute;
+  width: 342px;
+  height: 350px;
+  top: 0;
+  left: 0;
+  background-color: #f1f1f1;
+  border-radius: 6px 6px 0px 0px;
+}
+
+.element-shop-grid .element-34 {
+  position: absolute;
+  width: 342px;
+  height: 507px;
+  top: 1673px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .pagination {
+  position: absolute;
+  width: 288px;
+  height: 50px;
+  top: 2230px;
+  left: 0;
+}
+
+.element-shop-grid .overlap-4 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 228px;
+  background-color: #f6f6f7;
+  border-radius: 4px;
+}
+
+.element-shop-grid .text-wrapper-52 {
+  height: 14px;
+  top: 18px;
+  left: 19px;
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 14px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .overlap-5 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 171px;
+  background-color: #f6f6f7;
+  border-radius: 4px;
+}
+
+.element-shop-grid .text-wrapper-53 {
+  width: 19px;
+  height: 10px;
+  top: 20px;
+  left: 16px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 14px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .overlap-6 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 114px;
+  background-color: #f6f6f7;
+  border-radius: 4px;
+}
+
+.element-shop-grid .text-wrapper-54 {
+  width: 18px;
+  height: 10px;
+  top: 20px;
+  left: 16px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 14px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .overlap-7 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 57px;
+  background-color: #f6f6f7;
+  border-radius: 4px;
+}
+
+.element-shop-grid .overlap-8 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #e53e3e;
+  border-radius: 4px;
+}
+
+.element-shop-grid .text-wrapper-55 {
+  width: 16px;
+  height: 10px;
+  top: 20px;
+  left: 18px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .overlap-9 {
+  position: absolute;
+  width: 1930px;
+  height: 477px;
+  top: 0;
+  left: 0;
+}
+
+.element-shop-grid .breadcrumb {
+  position: absolute;
+  width: 1928px;
+  height: 300px;
+  top: 177px;
+  left: 0;
+}
+
+.element-shop-grid .overlap-10 {
+  position: relative;
+  width: 1920px;
+  height: 300px;
+  background-image: url(https://c.animaapp.com/m98dzpx5h8Fggg/img/bg.png);
+  background-size: 100% 100%;
+}
+
+.element-shop-grid .text-wrapper-56 {
+  width: 47px;
+  height: 14px;
+  top: 157px;
+  left: 1513px;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-57 {
+  position: absolute;
+  width: 282px;
+  height: 41px;
+  top: 143px;
+  left: 240px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-58 {
+  width: 75px;
+  height: 14px;
+  top: 157px;
+  left: 1605px;
+  font-weight: 600;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-59 {
+  height: 18px;
+  top: 155px;
+  left: 1576px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #74787c;
+  font-size: 18px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .header {
+  position: absolute;
+  width: 1930px;
+  height: 204px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.element-shop-grid .overlap-11 {
+  position: absolute;
+  width: 1440px;
+  height: 55px;
+  top: 149px;
+  left: 240px;
+  background-color: #1a1a1a;
+  border-radius: 6px;
+  background-image: url(https://c.animaapp.com/m98dzpx5h8Fggg/img/bg-1.png);
+  background-size: 100% 100%;
+}
+
+.element-shop-grid .discount {
+  position: absolute;
+  width: 235px;
+  height: 20px;
+  top: 18px;
+  left: 1177px;
+}
+
+.element-shop-grid .text-wrapper-60 {
+  position: absolute;
+  width: 166px;
+  height: 11px;
+  top: 4px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .sale-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  top: 0;
+  left: 181px;
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+
+.element-shop-grid .sale {
+  width: 30px;
+  height: 9px;
+  top: 5px;
+  left: 10px;
+  font-weight: 700;
+  color: #e53e3e;
+  font-size: 12px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .home-shop-women-men {
+  position: absolute;
+  width: 594px;
+  height: 10px;
+  top: 23px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-shop-grid .text-wrapper-61 {
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.element-shop-grid .navbar {
+  position: absolute;
+  width: 1920px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #e53e3e;
+}
+
+.element-shop-grid .text-wrapper-62 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 846px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-63 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 1373px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .left {
+  position: absolute;
+  width: 319px;
+  height: 20px;
+  top: 10px;
+  left: 240px;
+}
+
+.element-shop-grid .about-my-account {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .bg-34 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1482px;
+  background-color: #ffffff;
+}
+
+.element-shop-grid .bg-35 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1591px;
+  background-color: #ffffff;
+}
+
+.element-shop-grid .currency {
+  left: 1607px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-64 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #ffffff;
+}
+
+.element-shop-grid .language {
+  left: 1498px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .logo {
+  position: absolute;
+  width: 157px;
+  height: 36px;
+  top: 75px;
+  left: 240px;
+}
+
+.element-shop-grid .search-input {
+  position: absolute;
+  width: 656px;
+  height: 50px;
+  top: 68px;
+  left: 464px;
+}
+
+.element-shop-grid .overlap-12 {
+  position: relative;
+  width: 650px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-shop-grid .bg-36 {
+  position: absolute;
+  width: 1px;
+  height: 20px;
+  top: 14px;
+  left: 150px;
+  background-color: #cfcfcf;
+}
+
+.element-shop-grid .search-here-wrapper {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  top: 10px;
+  left: 519px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element-shop-grid .search-here {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  font-family: "Jost", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-65 {
+  position: absolute;
+  top: 15px;
+  left: 171px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .all-categories {
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-66 {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.element-shop-grid .text-wrapper-67 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #1a1a1a;
+}
+
+.element-shop-grid .right-info {
+  position: absolute;
+  width: 457px;
+  height: 45px;
+  top: 71px;
+  left: 1221px;
+}
+
+.element-shop-grid .cart {
+  position: absolute;
+  width: 142px;
+  height: 45px;
+  top: 0;
+  left: 323px;
+}
+
+.element-shop-grid .overlap-13 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-shop-grid .text-wrapper-68 {
+  height: 16px;
+  top: 15px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .overlap-14 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  left: 30px;
+  background-color: #e53e3e;
+  border-radius: 7.5px;
+}
+
+.element-shop-grid .text-wrapper-69 {
+  height: 13px;
+  top: 1px;
+  left: 5px;
+  font-family: "Red Hat Display", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 10px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .overlap-group-6 {
+  position: absolute;
+  width: 74px;
+  height: 42px;
+  top: 2px;
+  left: 60px;
+}
+
+.element-shop-grid .text-wrapper-70 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-71 {
+  height: 23px;
+  top: 19px;
+  left: 0;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  color: #1a1a1a;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .phone {
+  width: 202px;
+  height: 45px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.element-shop-grid .overlap-15 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 151px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-shop-grid .text-wrapper-72 {
+  height: 16px;
+  top: 15px;
+  left: 15px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-shop-grid .overlap-16 {
+  position: absolute;
+  width: 136px;
+  height: 42px;
+  top: 2px;
+  left: 0;
+}
+
+.element-shop-grid .text-wrapper-73 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 58px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-shop-grid .text-wrapper-74 {
+  height: 23px;
+  top: 19px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  left: 0;
+}
+
+.element-shop-grid .love {
+  position: absolute;
+  width: 47px;
+  height: 45px;
+  top: 0;
+  left: 237px;
+}
+
+.element-shop-grid .overlap-17 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-shop-grid .bg-37 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 302px;
+  background-color: #eaeaea;
+}
+
+.element-shop-grid .bg-38 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 216px;
+  background-color: #eaeaea;
+}

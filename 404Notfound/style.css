@@ -1,0 +1,1354 @@
+.element {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1955px;
+  position: relative;
+}
+
+.element .footer {
+  position: absolute;
+  width: 1920px;
+  height: 532px;
+  top: 1423px;
+  left: 0;
+  background-color: #f6f6f7;
+}
+
+.element .bottom {
+  position: absolute;
+  width: 1455px;
+  height: 61px;
+  top: 458px;
+  left: 230px;
+}
+
+.element .copyright {
+  position: absolute;
+  height: 18px;
+  top: 28px;
+  left: 1139px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper {
+  color: #1a1a1a;
+}
+
+.element .span {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.element .text-wrapper-2 {
+  position: absolute;
+  width: 118px;
+  height: 6px;
+  top: 34px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .bg {
+  position: absolute;
+  width: 1450px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  background-color: #ddddde;
+}
+
+.element .screenshot {
+  position: absolute;
+  width: 321px;
+  height: 49px;
+  top: 12px;
+  left: 125px;
+  object-fit: cover;
+}
+
+.element .info-bar {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  top: 60px;
+  left: 240px;
+  background-image: url(https://c.animaapp.com/m98txkg1XNoozf/img/line-2.svg);
+  background-size: 100% 100%;
+}
+
+.element .line {
+  left: 360px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element .img {
+  left: 691px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element .line-2 {
+  left: 1062px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element .div-2 {
+  position: absolute;
+  width: 258px;
+  height: 36px;
+  top: 27px;
+  left: 40px;
+}
+
+.element .free-shipping-free {
+  position: absolute;
+  width: 206px;
+  height: 32px;
+  top: 2px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element .text-wrapper-3 {
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 20px;
+}
+
+.element .text-wrapper-4 {
+  color: #74787c;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.element .img-2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element .div-3 {
+  position: absolute;
+  width: 204px;
+  height: 32px;
+  top: 29px;
+  left: 425px;
+}
+
+.element .free-returns-days {
+  position: absolute;
+  width: 152px;
+  height: 32px;
+  top: 0;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element .delivery-van {
+  position: absolute;
+  width: 36px;
+  height: 27px;
+  top: 3px;
+  left: 0;
+  object-fit: cover;
+}
+
+.element .div-4 {
+  position: absolute;
+  width: 244px;
+  height: 36px;
+  top: 26px;
+  left: 756px;
+}
+
+.element .secured-payments-we {
+  position: absolute;
+  width: 192px;
+  height: 32px;
+  top: 3px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element .div-5 {
+  position: absolute;
+  width: 218px;
+  height: 36px;
+  top: 26px;
+  left: 1127px;
+}
+
+.element .customer-service-top {
+  position: absolute;
+  width: 162px;
+  height: 32px;
+  top: 3px;
+  left: 54px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element .element-hours {
+  position: absolute;
+  width: 44px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element .div-6 {
+  position: absolute;
+  width: 269px;
+  height: 188px;
+  top: 210px;
+  left: 240px;
+}
+
+.element .text-wrapper-5 {
+  position: absolute;
+  width: 95px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .monday-friday {
+  position: absolute;
+  width: 243px;
+  height: 11px;
+  top: 121px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-6 {
+  color: #74787c;
+}
+
+.element .text-wrapper-7 {
+  font-weight: 500;
+  color: #1a1a1a;
+}
+
+.element .saturday {
+  position: absolute;
+  width: 193px;
+  height: 11px;
+  top: 149px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .sunday-service-close {
+  position: absolute;
+  width: 156px;
+  height: 11px;
+  top: 177px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .call {
+  position: absolute;
+  width: 263px;
+  height: 50px;
+  top: 41px;
+  left: 0;
+}
+
+.element .group {
+  position: absolute;
+  width: 200px;
+  height: 39px;
+  top: 6px;
+  left: 65px;
+}
+
+.element .p {
+  position: absolute;
+  width: 176px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-8 {
+  width: 196px;
+  height: 17px;
+  top: 22px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #e53e3e;
+  font-size: 24px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .overlap-group {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.element .text-wrapper-9 {
+  height: 18px;
+  top: 16px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .div-7 {
+  position: absolute;
+  width: 406px;
+  height: 174px;
+  top: 210px;
+  left: 1279px;
+}
+
+.element .form {
+  position: absolute;
+  width: 402px;
+  height: 50px;
+  top: 94px;
+  left: 0;
+}
+
+.element .overlap {
+  position: relative;
+  width: 400px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e4e5ee;
+}
+
+.element .btn {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 109px;
+  height: 36px;
+  top: 6px;
+  left: 285px;
+}
+
+.element .subscribe-wrapper {
+  position: relative;
+  width: 107px;
+  height: 36px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element .subscribe {
+  position: absolute;
+  height: 15px;
+  top: 11px;
+  left: 19px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-10 {
+  position: absolute;
+  height: 20px;
+  top: 14px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-11 {
+  width: 121px;
+  left: 1px;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-12 {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  top: 41px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element .text-wrapper-13 {
+  position: absolute;
+  width: 267px;
+  height: 10px;
+  top: 164px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element .div-8 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 1040px;
+}
+
+.element .text-wrapper-14 {
+  position: absolute;
+  height: 160px;
+  top: 37px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.element .div-9 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 801px;
+}
+
+.element .text-wrapper-15 {
+  position: absolute;
+  width: 132px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .div-10 {
+  position: absolute;
+  width: 90px;
+  height: 197px;
+  top: 210px;
+  left: 608px;
+}
+
+.element .text-wrapper-16 {
+  width: 86px;
+  left: 0;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .div-11 {
+  position: absolute;
+  width: 621px;
+  height: 646px;
+  top: 627px;
+  left: 652px;
+}
+
+.element .text-wrapper-17 {
+  position: absolute;
+  width: 351px;
+  height: 33px;
+  top: 458px;
+  left: 133px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .sorry-we-couldn-t {
+  position: absolute;
+  width: 507px;
+  height: 35px;
+  top: 521px;
+  left: 55px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.element .btn-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 240px;
+  height: 50px;
+  top: 596px;
+  left: 188px;
+}
+
+.element .overlap-group-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  width: 242px;
+  height: 50px;
+}
+
+.element .back-to-homepage-wrapper {
+  position: relative;
+  width: 240px;
+  height: 50px;
+  background-color: #e53e3e;
+  border-radius: 6px;
+}
+
+.element .back-to-homepage {
+  position: absolute;
+  height: 20px;
+  top: 15px;
+  left: 48px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .overlap-wrapper {
+  position: absolute;
+  width: 617px;
+  height: 407px;
+  top: 0;
+  left: 0;
+}
+
+.element .overlap-2 {
+  position: relative;
+  height: 407px;
+}
+
+.element .vector {
+  position: absolute;
+  width: 608px;
+  height: 407px;
+  top: 0;
+  left: 9px;
+}
+
+.element .div-wrapper {
+  position: absolute;
+  width: 613px;
+  height: 247px;
+  top: 141px;
+  left: 0;
+}
+
+.element .overlap-3 {
+  position: relative;
+  height: 247px;
+}
+
+.element .group-2 {
+  position: absolute;
+  width: 268px;
+  height: 247px;
+  top: 0;
+  left: 173px;
+}
+
+.element .group-3 {
+  position: absolute;
+  width: 247px;
+  height: 247px;
+  top: 0;
+  left: 21px;
+}
+
+.element .vector-2 {
+  position: absolute;
+  width: 44px;
+  height: 17px;
+  top: 175px;
+  left: 71px;
+}
+
+.element .group-wrapper {
+  position: absolute;
+  width: 180px;
+  height: 117px;
+  top: 27px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/m98txkg1XNoozf/img/group-1.png);
+  background-size: 100% 100%;
+}
+
+.element .group-4 {
+  position: relative;
+  width: 98px;
+  height: 29px;
+  top: 40px;
+  left: 37px;
+}
+
+.element .group-5 {
+  position: absolute;
+  width: 30px;
+  height: 29px;
+  top: 0;
+  left: 0;
+}
+
+.element .overlap-group-2 {
+  position: relative;
+  height: 29px;
+}
+
+.element .group-6 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 0;
+  left: 0;
+}
+
+.element .group-7 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 0;
+  left: 1px;
+}
+
+.element .group-8 {
+  position: absolute;
+  width: 30px;
+  height: 29px;
+  top: 0;
+  left: 68px;
+}
+
+.element .group-9 {
+  position: absolute;
+  width: 613px;
+  height: 223px;
+  top: 12px;
+  left: 0;
+}
+
+.element .group-10 {
+  position: absolute;
+  width: 133px;
+  height: 223px;
+  top: 0;
+  left: 0;
+}
+
+.element .group-11 {
+  position: absolute;
+  width: 133px;
+  height: 223px;
+  top: 0;
+  left: 480px;
+}
+
+.element .overlap-4 {
+  position: absolute;
+  width: 1930px;
+  height: 477px;
+  top: 0;
+  left: 0;
+}
+
+.element .breadcrumb {
+  position: absolute;
+  width: 1928px;
+  height: 300px;
+  top: 177px;
+  left: 0;
+}
+
+.element .overlap-5 {
+  position: relative;
+  width: 1920px;
+  height: 300px;
+  background-image: url(https://c.animaapp.com/m98txkg1XNoozf/img/bg.png);
+  background-size: 100% 100%;
+}
+
+.element .text-wrapper-18 {
+  width: 47px;
+  height: 14px;
+  top: 157px;
+  left: 1459px;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-19 {
+  position: absolute;
+  height: 87px;
+  top: 120px;
+  left: 240px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-20 {
+  position: absolute;
+  height: 26px;
+  top: 151px;
+  left: 1551px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-21 {
+  height: 18px;
+  top: 155px;
+  left: 1522px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #74787c;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .header {
+  position: absolute;
+  width: 1930px;
+  height: 204px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.element .overlap-6 {
+  position: absolute;
+  width: 1440px;
+  height: 55px;
+  top: 149px;
+  left: 240px;
+  background-color: #1a1a1a;
+  border-radius: 6px;
+  background-image: url(https://c.animaapp.com/m98txkg1XNoozf/img/bg-1.png);
+  background-size: 100% 100%;
+}
+
+.element .discount {
+  position: absolute;
+  width: 235px;
+  height: 20px;
+  top: 18px;
+  left: 1177px;
+}
+
+.element .text-wrapper-22 {
+  position: absolute;
+  width: 166px;
+  height: 11px;
+  top: 4px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .sale-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  top: 0;
+  left: 181px;
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+
+.element .sale {
+  width: 30px;
+  height: 9px;
+  top: 5px;
+  left: 10px;
+  font-weight: 700;
+  color: #e53e3e;
+  font-size: 12px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .home-shop-women-men {
+  position: absolute;
+  width: 594px;
+  height: 10px;
+  top: 23px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-23 {
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.element .navbar {
+  position: absolute;
+  width: 1920px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #e53e3e;
+}
+
+.element .text-wrapper-24 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 846px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-25 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 1373px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .left {
+  position: absolute;
+  width: 319px;
+  height: 20px;
+  top: 10px;
+  left: 240px;
+}
+
+.element .about-my-account {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .bg-2 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1482px;
+  background-color: #ffffff;
+}
+
+.element .bg-3 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1591px;
+  background-color: #ffffff;
+}
+
+.element .currency {
+  left: 1607px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-26 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #ffffff;
+}
+
+.element .language {
+  left: 1498px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .logo {
+  position: absolute;
+  width: 157px;
+  height: 36px;
+  top: 75px;
+  left: 240px;
+}
+
+.element .search-input {
+  position: absolute;
+  width: 656px;
+  height: 50px;
+  top: 68px;
+  left: 464px;
+}
+
+.element .overlap-7 {
+  position: relative;
+  width: 650px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element .bg-4 {
+  position: absolute;
+  width: 1px;
+  height: 20px;
+  top: 14px;
+  left: 150px;
+  background-color: #cfcfcf;
+}
+
+.element .search-here-wrapper {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  top: 10px;
+  left: 519px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element .search-here {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  font-family: "Jost", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-27 {
+  position: absolute;
+  top: 15px;
+  left: 171px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .all-categories {
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-28 {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.element .text-wrapper-29 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #1a1a1a;
+}
+
+.element .right-info {
+  position: absolute;
+  width: 457px;
+  height: 45px;
+  top: 71px;
+  left: 1221px;
+}
+
+.element .cart {
+  position: absolute;
+  width: 142px;
+  height: 45px;
+  top: 0;
+  left: 323px;
+}
+
+.element .overlap-group-3 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element .text-wrapper-30 {
+  height: 16px;
+  top: 15px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .overlap-8 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  left: 30px;
+  background-color: #e53e3e;
+  border-radius: 7.5px;
+}
+
+.element .text-wrapper-31 {
+  position: absolute;
+  height: 13px;
+  top: 1px;
+  left: 5px;
+  font-family: "Red Hat Display", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .overlap-9 {
+  position: absolute;
+  width: 74px;
+  height: 42px;
+  top: 2px;
+  left: 60px;
+}
+
+.element .text-wrapper-32 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-33 {
+  position: absolute;
+  height: 23px;
+  top: 19px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .phone {
+  width: 202px;
+  height: 45px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.element .overlap-10 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 151px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element .text-wrapper-34 {
+  height: 16px;
+  top: 15px;
+  left: 15px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .overlap-11 {
+  position: absolute;
+  width: 136px;
+  height: 42px;
+  top: 2px;
+  left: 0;
+}
+
+.element .text-wrapper-35 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 58px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .text-wrapper-36 {
+  height: 23px;
+  top: 19px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  left: 0;
+}
+
+.element .love {
+  position: absolute;
+  width: 47px;
+  height: 45px;
+  top: 0;
+  left: 237px;
+}
+
+.element .overlap-12 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element .bg-5 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 302px;
+  background-color: #eaeaea;
+}
+
+.element .bg-6 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 216px;
+  background-color: #eaeaea;
+}

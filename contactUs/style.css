@@ -1,0 +1,1492 @@
+.element-contact {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-contact .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 2493px;
+  position: relative;
+}
+
+.element-contact .footer {
+  position: absolute;
+  width: 1920px;
+  height: 532px;
+  top: 1961px;
+  left: 0;
+  background-color: #f6f6f7;
+}
+
+.element-contact .bottom {
+  position: absolute;
+  width: 1455px;
+  height: 61px;
+  top: 458px;
+  left: 230px;
+}
+
+.element-contact .copyright {
+  position: absolute;
+  height: 18px;
+  top: 28px;
+  left: 1139px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper {
+  color: #1a1a1a;
+}
+
+.element-contact .span {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.element-contact .text-wrapper-2 {
+  position: absolute;
+  width: 118px;
+  height: 6px;
+  top: 34px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .bg {
+  position: absolute;
+  width: 1450px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  background-color: #ddddde;
+}
+
+.element-contact .screenshot {
+  position: absolute;
+  width: 321px;
+  height: 49px;
+  top: 12px;
+  left: 125px;
+  object-fit: cover;
+}
+
+.element-contact .info-bar {
+  width: 1440px;
+  height: 90px;
+  left: 240px;
+  background-image: url(https://c.animaapp.com/m98u0bb12uxq6M/img/line-2.svg);
+  background-size: 100% 100%;
+  position: absolute;
+  top: 60px;
+}
+
+.element-contact .line {
+  left: 360px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-contact .img {
+  left: 691px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-contact .line-2 {
+  left: 1062px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-contact .element {
+  position: absolute;
+  width: 258px;
+  height: 36px;
+  top: 27px;
+  left: 40px;
+}
+
+.element-contact .free-shipping-free {
+  position: absolute;
+  width: 206px;
+  height: 32px;
+  top: 2px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-contact .text-wrapper-3 {
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 20px;
+}
+
+.element-contact .text-wrapper-4 {
+  color: #74787c;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.element-contact .img-2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-contact .element-2 {
+  position: absolute;
+  width: 204px;
+  height: 32px;
+  top: 29px;
+  left: 425px;
+}
+
+.element-contact .free-returns-days {
+  position: absolute;
+  width: 152px;
+  height: 32px;
+  top: 0;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-contact .delivery-van {
+  position: absolute;
+  width: 36px;
+  height: 27px;
+  top: 3px;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-contact .element-3 {
+  position: absolute;
+  width: 244px;
+  height: 36px;
+  top: 26px;
+  left: 756px;
+}
+
+.element-contact .secured-payments-we {
+  position: absolute;
+  width: 192px;
+  height: 32px;
+  top: 3px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-contact .element-4 {
+  position: absolute;
+  width: 218px;
+  height: 36px;
+  top: 26px;
+  left: 1127px;
+}
+
+.element-contact .customer-service-top {
+  position: absolute;
+  width: 162px;
+  height: 32px;
+  top: 3px;
+  left: 54px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-contact .element-hours {
+  position: absolute;
+  width: 44px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-contact .element-5 {
+  position: absolute;
+  width: 269px;
+  height: 188px;
+  top: 210px;
+  left: 240px;
+}
+
+.element-contact .text-wrapper-5 {
+  position: absolute;
+  width: 95px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .monday-friday {
+  position: absolute;
+  width: 243px;
+  height: 11px;
+  top: 121px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-6 {
+  color: #74787c;
+}
+
+.element-contact .text-wrapper-7 {
+  font-weight: 500;
+  color: #1a1a1a;
+}
+
+.element-contact .saturday {
+  position: absolute;
+  width: 193px;
+  height: 11px;
+  top: 149px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .sunday-service-close {
+  position: absolute;
+  width: 156px;
+  height: 11px;
+  top: 177px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .call {
+  position: absolute;
+  width: 263px;
+  height: 50px;
+  top: 41px;
+  left: 0;
+}
+
+.element-contact .group {
+  position: absolute;
+  width: 200px;
+  height: 39px;
+  top: 6px;
+  left: 65px;
+}
+
+.element-contact .p {
+  position: absolute;
+  width: 176px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-8 {
+  position: absolute;
+  width: 196px;
+  height: 17px;
+  top: 22px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #e53e3e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .overlap-group {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.element-contact .text-wrapper-9 {
+  height: 18px;
+  top: 16px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .element-6 {
+  position: absolute;
+  width: 406px;
+  height: 174px;
+  top: 210px;
+  left: 1279px;
+}
+
+.element-contact .form {
+  position: absolute;
+  width: 402px;
+  height: 50px;
+  top: 94px;
+  left: 0;
+}
+
+.element-contact .overlap {
+  position: relative;
+  width: 400px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e4e5ee;
+}
+
+.element-contact .btn {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 109px;
+  height: 36px;
+  top: 6px;
+  left: 285px;
+}
+
+.element-contact .subscribe-wrapper {
+  position: relative;
+  width: 107px;
+  height: 36px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element-contact .subscribe {
+  position: absolute;
+  height: 15px;
+  top: 11px;
+  left: 19px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-10 {
+  position: absolute;
+  height: 20px;
+  top: 14px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-11 {
+  width: 121px;
+  left: 1px;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-12 {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  top: 41px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-contact .text-wrapper-13 {
+  position: absolute;
+  width: 267px;
+  height: 10px;
+  top: 164px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element-contact .element-7 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 1040px;
+}
+
+.element-contact .text-wrapper-14 {
+  position: absolute;
+  height: 160px;
+  top: 37px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.element-contact .element-8 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 801px;
+}
+
+.element-contact .text-wrapper-15 {
+  position: absolute;
+  width: 132px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .element-9 {
+  position: absolute;
+  width: 90px;
+  height: 197px;
+  top: 210px;
+  left: 608px;
+}
+
+.element-contact .text-wrapper-16 {
+  width: 86px;
+  left: 0;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .contact {
+  position: absolute;
+  width: 1450px;
+  height: 1284px;
+  top: 577px;
+  left: 240px;
+}
+
+.element-contact .overlap-2 {
+  position: absolute;
+  width: 1439px;
+  height: 684px;
+  top: 0;
+  left: 0;
+  background-color: #f6f6f7;
+  border-radius: 6px;
+}
+
+.element-contact .overlap-group-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 172px;
+  height: 50px;
+  top: 574px;
+  left: 60px;
+}
+
+.element-contact .div-wrapper {
+  position: relative;
+  width: 170px;
+  height: 50px;
+  background-color: var(--color-one);
+  border-radius: 3px;
+}
+
+.element-contact .text-wrapper-17 {
+  position: absolute;
+  height: 23px;
+  top: 14px;
+  left: 32px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .element-10 {
+  position: absolute;
+  width: 392px;
+  height: 86px;
+  top: 129px;
+  left: 60px;
+}
+
+.element-contact .bg-2 {
+  position: absolute;
+  width: 390px;
+  height: 50px;
+  top: 36px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #eaeaea;
+}
+
+.element-contact .text-wrapper-18 {
+  height: 23px;
+  font-size: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .element-11 {
+  position: absolute;
+  width: 392px;
+  height: 86px;
+  top: 129px;
+  left: 474px;
+}
+
+.element-contact .element-12 {
+  position: absolute;
+  width: 807px;
+  height: 86px;
+  top: 243px;
+  left: 60px;
+}
+
+.element-contact .bg-3 {
+  position: absolute;
+  width: 805px;
+  height: 50px;
+  top: 36px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #eaeaea;
+}
+
+.element-contact .element-13 {
+  position: absolute;
+  width: 807px;
+  height: 187px;
+  top: 357px;
+  left: 60px;
+}
+
+.element-contact .bg-4 {
+  position: absolute;
+  width: 805px;
+  height: 151px;
+  top: 36px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #eaeaea;
+}
+
+.element-contact .text-wrapper-19 {
+  position: absolute;
+  width: 206px;
+  height: 28px;
+  top: 59px;
+  left: 60px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .info-box {
+  width: 465px;
+  height: 564px;
+  left: 914px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #ebebeb;
+  position: absolute;
+  top: 60px;
+}
+
+.element-contact .bg-5 {
+  position: absolute;
+  width: 385px;
+  height: 162px;
+  top: 39px;
+  left: 39px;
+  background-color: #d9d9d9;
+  border-radius: 6px;
+}
+
+.element-contact .group-2 {
+  position: absolute;
+  width: 393px;
+  height: 287px;
+  top: 236px;
+  left: 39px;
+}
+
+.element-contact .text-wrapper-20 {
+  position: absolute;
+  width: 157px;
+  height: 17px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-21 {
+  position: absolute;
+  width: 168px;
+  height: 17px;
+  top: 207px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .bg-6 {
+  position: absolute;
+  width: 385px;
+  height: 1px;
+  top: 176px;
+  left: 0;
+  background-color: #e1e1e1;
+}
+
+.element-contact .germany {
+  position: absolute;
+  width: 284px;
+  height: 104px;
+  top: 42px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.element-contact .text-wrapper-22 {
+  color: #74787c;
+  line-height: 26px;
+}
+
+.element-contact .text-wrapper-23 {
+  color: #74787c;
+  line-height: 20px;
+}
+
+.element-contact .monday-friday-am {
+  position: absolute;
+  width: 195px;
+  height: 38px;
+  top: 249px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element-contact .overlap-3 {
+  position: absolute;
+  width: 1440px;
+  height: 500px;
+  top: 784px;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 6px;
+}
+
+.element-contact .overlap-4 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 138px;
+  left: 720px;
+  background-color: var(--color-one);
+  border-radius: 24px;
+  border: 5px solid;
+  border-color: #ffffff;
+  box-shadow: 0px 8px 38px #0000002b;
+}
+
+.element-contact .text-wrapper-24 {
+  height: 14px;
+  top: 12px;
+  left: 14px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .overlap-5 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 330px;
+  left: 976px;
+  background-color: var(--color-one);
+  border-radius: 24px;
+  border: 5px solid;
+  border-color: #ffffff;
+  box-shadow: 0px 8px 38px #0000002b;
+}
+
+.element-contact .overlap-6 {
+  position: absolute;
+  width: 240px;
+  height: 241px;
+  top: 110px;
+  left: 433px;
+  background-color: #ffffff;
+  border-radius: 6px;
+}
+
+.element-contact .text-wrapper-25 {
+  position: absolute;
+  height: 24px;
+  top: 191px;
+  left: 22px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.element-contact .bg-7 {
+  position: absolute;
+  width: 200px;
+  height: 122px;
+  top: 20px;
+  left: 20px;
+  background-color: #d9d9d9;
+  border-radius: 6px;
+}
+
+.element-contact .text-wrapper-26 {
+  position: absolute;
+  height: 29px;
+  top: 160px;
+  left: 20px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .overlap-7 {
+  position: absolute;
+  width: 1930px;
+  height: 477px;
+  top: 0;
+  left: 0;
+}
+
+.element-contact .breadcrumb {
+  position: absolute;
+  width: 1928px;
+  height: 300px;
+  top: 177px;
+  left: 0;
+}
+
+.element-contact .overlap-8 {
+  position: relative;
+  width: 1920px;
+  height: 300px;
+  background-image: url(https://c.animaapp.com/m98u0bb12uxq6M/img/bg.png);
+  background-size: 100% 100%;
+}
+
+.element-contact .text-wrapper-27 {
+  width: 47px;
+  height: 14px;
+  top: 157px;
+  left: 1516px;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 18px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-28 {
+  width: 206px;
+  height: 41px;
+  top: 143px;
+  left: 240px;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 60px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-29 {
+  position: absolute;
+  height: 26px;
+  top: 151px;
+  left: 1608px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-30 {
+  height: 18px;
+  top: 155px;
+  left: 1579px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: var(--content-color);
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .header {
+  position: absolute;
+  width: 1930px;
+  height: 204px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.element-contact .overlap-9 {
+  position: absolute;
+  width: 1440px;
+  height: 55px;
+  top: 149px;
+  left: 240px;
+  background-color: #1a1a1a;
+  border-radius: 6px;
+  background-image: url(https://c.animaapp.com/m98u0bb12uxq6M/img/bg-1.png);
+  background-size: 100% 100%;
+}
+
+.element-contact .discount {
+  position: absolute;
+  width: 235px;
+  height: 20px;
+  top: 18px;
+  left: 1177px;
+}
+
+.element-contact .text-wrapper-31 {
+  position: absolute;
+  width: 166px;
+  height: 11px;
+  top: 4px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .sale-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  top: 0;
+  left: 181px;
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+
+.element-contact .sale {
+  width: 30px;
+  height: 9px;
+  top: 5px;
+  left: 10px;
+  font-weight: 700;
+  color: #e53e3e;
+  font-size: 12px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .home-shop-women-men {
+  position: absolute;
+  width: 594px;
+  height: 10px;
+  top: 23px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-32 {
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.element-contact .navbar {
+  position: absolute;
+  width: 1920px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #e53e3e;
+}
+
+.element-contact .text-wrapper-33 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 846px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-34 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 1373px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .left {
+  position: absolute;
+  width: 319px;
+  height: 20px;
+  top: 10px;
+  left: 240px;
+}
+
+.element-contact .about-my-account {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .bg-8 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1482px;
+  background-color: #ffffff;
+}
+
+.element-contact .bg-9 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1591px;
+  background-color: #ffffff;
+}
+
+.element-contact .currency {
+  left: 1607px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-35 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #ffffff;
+}
+
+.element-contact .language {
+  left: 1498px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .logo {
+  position: absolute;
+  width: 157px;
+  height: 36px;
+  top: 75px;
+  left: 240px;
+}
+
+.element-contact .search-input {
+  position: absolute;
+  width: 656px;
+  height: 50px;
+  top: 68px;
+  left: 464px;
+}
+
+.element-contact .overlap-10 {
+  position: relative;
+  width: 650px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-contact .bg-10 {
+  position: absolute;
+  width: 1px;
+  height: 20px;
+  top: 14px;
+  left: 150px;
+  background-color: #cfcfcf;
+}
+
+.element-contact .search-here-wrapper {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  top: 10px;
+  left: 519px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element-contact .search-here {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  font-family: "Jost", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-36 {
+  position: absolute;
+  top: 15px;
+  left: 171px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .all-categories {
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-37 {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.element-contact .text-wrapper-38 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #1a1a1a;
+}
+
+.element-contact .right-info {
+  position: absolute;
+  width: 457px;
+  height: 45px;
+  top: 71px;
+  left: 1221px;
+}
+
+.element-contact .cart {
+  position: absolute;
+  width: 142px;
+  height: 45px;
+  top: 0;
+  left: 323px;
+}
+
+.element-contact .overlap-group-2 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-contact .text-wrapper-39 {
+  height: 16px;
+  top: 15px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .overlap-11 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  left: 30px;
+  background-color: #e53e3e;
+  border-radius: 7.5px;
+}
+
+.element-contact .text-wrapper-40 {
+  position: absolute;
+  height: 13px;
+  top: 1px;
+  left: 5px;
+  font-family: "Red Hat Display", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .overlap-12 {
+  position: absolute;
+  width: 74px;
+  height: 42px;
+  top: 2px;
+  left: 60px;
+}
+
+.element-contact .text-wrapper-41 {
+  height: 20px;
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-42 {
+  position: absolute;
+  height: 23px;
+  top: 19px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .phone {
+  width: 202px;
+  height: 45px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.element-contact .overlap-13 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 151px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-contact .text-wrapper-43 {
+  height: 16px;
+  top: 15px;
+  left: 15px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-contact .overlap-14 {
+  position: absolute;
+  width: 136px;
+  height: 42px;
+  top: 2px;
+  left: 0;
+}
+
+.element-contact .text-wrapper-44 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 58px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-contact .text-wrapper-45 {
+  height: 23px;
+  top: 19px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  left: 0;
+}
+
+.element-contact .love {
+  position: absolute;
+  width: 47px;
+  height: 45px;
+  top: 0;
+  left: 237px;
+}
+
+.element-contact .overlap-15 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-contact .bg-11 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 302px;
+  background-color: #eaeaea;
+}
+
+.element-contact .bg-12 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 216px;
+  background-color: #eaeaea;
+}
