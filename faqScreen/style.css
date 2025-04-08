@@ -1,0 +1,1417 @@
+.element-faq {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-faq .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1882px;
+  position: relative;
+}
+
+.element-faq .footer {
+  position: absolute;
+  width: 1920px;
+  height: 532px;
+  top: 1350px;
+  left: 0;
+  background-color: #f6f6f7;
+}
+
+.element-faq .bottom {
+  position: absolute;
+  width: 1455px;
+  height: 61px;
+  top: 458px;
+  left: 230px;
+}
+
+.element-faq .copyright {
+  position: absolute;
+  height: 18px;
+  top: 28px;
+  left: 1139px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element-faq .text-wrapper {
+  color: #1a1a1a;
+}
+
+.element-faq .span {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.element-faq .text-wrapper-2 {
+  position: absolute;
+  width: 118px;
+  height: 6px;
+  top: 34px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .bg {
+  position: absolute;
+  width: 1450px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  background-color: #ddddde;
+}
+
+.element-faq .screenshot {
+  position: absolute;
+  width: 321px;
+  height: 49px;
+  top: 12px;
+  left: 125px;
+  object-fit: cover;
+}
+
+.element-faq .info-bar {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  top: 60px;
+  left: 240px;
+  background-image: url(https://c.animaapp.com/m98ehc6vxYqCga/img/line.svg);
+  background-size: 100% 100%;
+}
+
+.element-faq .line {
+  left: 360px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-faq .img {
+  left: 691px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-faq .line-2 {
+  left: 1062px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-faq .element {
+  position: absolute;
+  width: 258px;
+  height: 36px;
+  top: 27px;
+  left: 40px;
+}
+
+.element-faq .free-shipping-free {
+  position: absolute;
+  width: 206px;
+  height: 32px;
+  top: 2px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-faq .text-wrapper-3 {
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 20px;
+}
+
+.element-faq .text-wrapper-4 {
+  color: #74787c;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.element-faq .img-2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-faq .element-2 {
+  position: absolute;
+  width: 204px;
+  height: 32px;
+  top: 29px;
+  left: 425px;
+}
+
+.element-faq .free-returns-days {
+  position: absolute;
+  width: 152px;
+  height: 32px;
+  top: 0;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-faq .delivery-van {
+  position: absolute;
+  width: 36px;
+  height: 27px;
+  top: 3px;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-faq .element-3 {
+  position: absolute;
+  width: 244px;
+  height: 36px;
+  top: 26px;
+  left: 756px;
+}
+
+.element-faq .secured-payments-we {
+  position: absolute;
+  width: 192px;
+  height: 32px;
+  top: 3px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-faq .element-4 {
+  position: absolute;
+  width: 218px;
+  height: 36px;
+  top: 26px;
+  left: 1127px;
+}
+
+.element-faq .customer-service-top {
+  position: absolute;
+  width: 162px;
+  height: 32px;
+  top: 3px;
+  left: 54px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-faq .element-hours {
+  position: absolute;
+  width: 44px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-faq .element-5 {
+  position: absolute;
+  width: 269px;
+  height: 188px;
+  top: 210px;
+  left: 240px;
+}
+
+.element-faq .text-wrapper-5 {
+  position: absolute;
+  width: 95px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .monday-friday {
+  position: absolute;
+  width: 243px;
+  height: 11px;
+  top: 121px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .text-wrapper-6 {
+  color: #74787c;
+}
+
+.element-faq .text-wrapper-7 {
+  font-weight: 500;
+  color: #1a1a1a;
+}
+
+.element-faq .saturday {
+  position: absolute;
+  width: 193px;
+  height: 11px;
+  top: 149px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .sunday-service-close {
+  position: absolute;
+  width: 156px;
+  height: 11px;
+  top: 177px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .call {
+  position: absolute;
+  width: 263px;
+  height: 50px;
+  top: 41px;
+  left: 0;
+}
+
+.element-faq .group {
+  position: absolute;
+  width: 200px;
+  height: 39px;
+  top: 6px;
+  left: 65px;
+}
+
+.element-faq .p {
+  position: absolute;
+  width: 176px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .text-wrapper-8 {
+  position: absolute;
+  width: 196px;
+  height: 17px;
+  top: 22px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #e53e3e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .overlap-group {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.element-faq .text-wrapper-9 {
+  height: 18px;
+  top: 16px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #e53e3e;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .element-6 {
+  position: absolute;
+  width: 406px;
+  height: 174px;
+  top: 210px;
+  left: 1279px;
+}
+
+.element-faq .form {
+  position: absolute;
+  width: 402px;
+  height: 50px;
+  top: 94px;
+  left: 0;
+}
+
+.element-faq .overlap {
+  position: relative;
+  width: 400px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e4e5ee;
+}
+
+.element-faq .btn {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 109px;
+  height: 36px;
+  top: 6px;
+  left: 285px;
+}
+
+.element-faq .subscribe-wrapper {
+  position: relative;
+  width: 107px;
+  height: 36px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element-faq .subscribe {
+  position: absolute;
+  height: 15px;
+  top: 11px;
+  left: 19px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-10 {
+  position: absolute;
+  height: 20px;
+  top: 14px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-11 {
+  width: 121px;
+  left: 1px;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .text-wrapper-12 {
+  position: absolute;
+  width: 400px;
+  height: 28px;
+  top: 41px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-faq .text-wrapper-13 {
+  position: absolute;
+  width: 267px;
+  height: 10px;
+  top: 164px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.element-faq .element-7 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 1040px;
+}
+
+.element-faq .text-wrapper-14 {
+  position: absolute;
+  height: 160px;
+  top: 37px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.element-faq .element-8 {
+  position: absolute;
+  width: 136px;
+  height: 197px;
+  top: 210px;
+  left: 801px;
+}
+
+.element-faq .text-wrapper-15 {
+  position: absolute;
+  width: 132px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .element-9 {
+  position: absolute;
+  width: 90px;
+  height: 197px;
+  top: 210px;
+  left: 608px;
+}
+
+.element-faq .text-wrapper-16 {
+  width: 86px;
+  left: 0;
+  position: absolute;
+  height: 12px;
+  top: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .faq-s {
+  position: absolute;
+  width: 1413px;
+  height: 673px;
+  top: 577px;
+  left: 240px;
+}
+
+.element-faq .overlap-group-wrapper {
+  position: absolute;
+  width: 834px;
+  height: 55px;
+  top: 618px;
+  left: 0;
+}
+
+.element-faq .overlap-group-2 {
+  position: relative;
+  width: 830px;
+  height: 55px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-faq .text-wrapper-17 {
+  position: absolute;
+  height: 23px;
+  top: 15px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #141414;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-18 {
+  height: 16px;
+  top: 18px;
+  left: 793px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #141414;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .overlap-wrapper {
+  position: absolute;
+  width: 834px;
+  height: 55px;
+  top: 543px;
+  left: 0;
+}
+
+.element-faq .text-wrapper-19 {
+  height: 16px;
+  top: 19px;
+  left: 793px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #141414;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .div-wrapper {
+  position: absolute;
+  width: 834px;
+  height: 55px;
+  top: 468px;
+  left: 0;
+}
+
+.element-faq .text-wrapper-20 {
+  position: absolute;
+  height: 23px;
+  top: 16px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #141414;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .element-10 {
+  position: absolute;
+  width: 834px;
+  height: 55px;
+  top: 393px;
+  left: 0;
+}
+
+.element-faq .element-11 {
+  position: absolute;
+  width: 834px;
+  height: 55px;
+  top: 318px;
+  left: 0;
+}
+
+.element-faq .element-12 {
+  position: absolute;
+  width: 834px;
+  height: 55px;
+  top: 243px;
+  left: 0;
+}
+
+.element-faq .element-13 {
+  position: absolute;
+  width: 834px;
+  height: 151px;
+  top: 72px;
+  left: 0;
+}
+
+.element-faq .overlap-2 {
+  position: relative;
+  width: 830px;
+  height: 151px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-faq .text-wrapper-21 {
+  position: absolute;
+  width: 776px;
+  height: 78px;
+  top: 50px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #7b7e86;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element-faq .text-wrapper-22 {
+  position: absolute;
+  height: 23px;
+  top: 19px;
+  left: 29px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #141414;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-23 {
+  position: absolute;
+  height: 43px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #141414;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .form-2 {
+  position: absolute;
+  width: 557px;
+  height: 445px;
+  top: 72px;
+  left: 854px;
+  background-color: #f6f6f6;
+  border-radius: 5px;
+}
+
+.element-faq .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 479px;
+  height: 55px;
+  top: 350px;
+  left: 40px;
+}
+
+.element-faq .submit-now-wrapper {
+  position: relative;
+  width: 477px;
+  height: 55px;
+  background-color: #e53e3e;
+  border-radius: 5px;
+}
+
+.element-faq .submit-now {
+  position: absolute;
+  height: 21px;
+  top: 17px;
+  left: 194px;
+  font-family: "Prompt", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .element-14 {
+  position: absolute;
+  width: 479px;
+  height: 140px;
+  top: 190px;
+  left: 40px;
+}
+
+.element-faq .overlap-3 {
+  position: relative;
+  width: 477px;
+  height: 140px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-faq .text-wrapper-24 {
+  position: absolute;
+  height: 23px;
+  top: 15px;
+  left: 24px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #7b7e86;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .element-15 {
+  position: absolute;
+  width: 479px;
+  height: 55px;
+  top: 115px;
+  left: 40px;
+}
+
+.element-faq .overlap-4 {
+  position: relative;
+  width: 477px;
+  height: 55px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-faq .element-16 {
+  position: absolute;
+  width: 479px;
+  height: 55px;
+  top: 40px;
+  left: 40px;
+}
+
+.element-faq .overlap-5 {
+  position: absolute;
+  width: 1930px;
+  height: 477px;
+  top: 0;
+  left: 0;
+}
+
+.element-faq .breadcrumb {
+  position: absolute;
+  width: 1928px;
+  height: 300px;
+  top: 177px;
+  left: 0;
+}
+
+.element-faq .overlap-6 {
+  position: relative;
+  width: 1920px;
+  height: 300px;
+  background-image: url(https://c.animaapp.com/m98ehc6vxYqCga/img/bg.png);
+  background-size: 100% 100%;
+}
+
+.element-faq .text-wrapper-25 {
+  width: 47px;
+  height: 14px;
+  top: 157px;
+  left: 1540px;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .text-wrapper-26 {
+  position: absolute;
+  height: 87px;
+  top: 120px;
+  left: 240px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-27 {
+  position: absolute;
+  height: 26px;
+  top: 151px;
+  left: 1632px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-28 {
+  height: 18px;
+  top: 155px;
+  left: 1603px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #74787c;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .header {
+  position: absolute;
+  width: 1930px;
+  height: 204px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.element-faq .overlap-7 {
+  position: absolute;
+  width: 1440px;
+  height: 55px;
+  top: 149px;
+  left: 240px;
+  background-color: #1a1a1a;
+  border-radius: 6px;
+  background-image: url(https://c.animaapp.com/m98ehc6vxYqCga/img/bg-1.png);
+  background-size: 100% 100%;
+}
+
+.element-faq .discount {
+  position: absolute;
+  width: 235px;
+  height: 20px;
+  top: 18px;
+  left: 1177px;
+}
+
+.element-faq .text-wrapper-29 {
+  position: absolute;
+  width: 166px;
+  height: 11px;
+  top: 4px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .sale-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  top: 0;
+  left: 181px;
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+
+.element-faq .sale {
+  width: 30px;
+  height: 9px;
+  top: 5px;
+  left: 10px;
+  font-weight: 700;
+  color: #e53e3e;
+  font-size: 12px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .home-shop-women-men {
+  position: absolute;
+  width: 594px;
+  height: 10px;
+  top: 23px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .text-wrapper-30 {
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.element-faq .navbar {
+  position: absolute;
+  width: 1920px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #e53e3e;
+}
+
+.element-faq .text-wrapper-31 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 846px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-32 {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 1373px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .left {
+  position: absolute;
+  width: 319px;
+  height: 20px;
+  top: 10px;
+  left: 240px;
+}
+
+.element-faq .about-my-account {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .bg-2 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1482px;
+  background-color: #ffffff;
+}
+
+.element-faq .bg-3 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 13px;
+  left: 1591px;
+  background-color: #ffffff;
+}
+
+.element-faq .currency {
+  left: 1607px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-33 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #ffffff;
+}
+
+.element-faq .language {
+  left: 1498px;
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .logo {
+  position: absolute;
+  width: 157px;
+  height: 36px;
+  top: 75px;
+  left: 240px;
+}
+
+.element-faq .search-input {
+  position: absolute;
+  width: 656px;
+  height: 50px;
+  top: 68px;
+  left: 464px;
+}
+
+.element-faq .overlap-8 {
+  position: relative;
+  width: 650px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e7e7e7;
+}
+
+.element-faq .bg-4 {
+  position: absolute;
+  width: 1px;
+  height: 20px;
+  top: 14px;
+  left: 150px;
+  background-color: #cfcfcf;
+}
+
+.element-faq .search-here-wrapper {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  top: 10px;
+  left: 519px;
+  background-color: #e53e3e;
+  border-radius: 3px;
+}
+
+.element-faq .search-here {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  font-family: "Jost", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-34 {
+  position: absolute;
+  top: 15px;
+  left: 171px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .all-categories {
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-35 {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.element-faq .text-wrapper-36 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #1a1a1a;
+}
+
+.element-faq .right-info {
+  position: absolute;
+  width: 457px;
+  height: 45px;
+  top: 71px;
+  left: 1221px;
+}
+
+.element-faq .cart {
+  position: absolute;
+  width: 142px;
+  height: 45px;
+  top: 0;
+  left: 323px;
+}
+
+.element-faq .overlap-group-3 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-faq .text-wrapper-37 {
+  height: 16px;
+  top: 15px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .overlap-9 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  left: 30px;
+  background-color: #e53e3e;
+  border-radius: 7.5px;
+}
+
+.element-faq .text-wrapper-38 {
+  position: absolute;
+  height: 13px;
+  top: 1px;
+  left: 5px;
+  font-family: "Red Hat Display", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .overlap-10 {
+  position: absolute;
+  width: 74px;
+  height: 42px;
+  top: 2px;
+  left: 60px;
+}
+
+.element-faq .text-wrapper-39 {
+  height: 20px;
+  top: 0;
+  left: 0;
+  color: #74787c;
+  font-size: 14px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-40 {
+  position: absolute;
+  height: 23px;
+  top: 19px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .phone {
+  width: 202px;
+  height: 45px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.element-faq .overlap-11 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 0;
+  left: 151px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-faq .text-wrapper-41 {
+  height: 16px;
+  top: 15px;
+  left: 15px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-faq .overlap-12 {
+  position: absolute;
+  width: 136px;
+  height: 42px;
+  top: 2px;
+  left: 0;
+}
+
+.element-faq .text-wrapper-42 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 58px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-faq .text-wrapper-43 {
+  height: 23px;
+  top: 19px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  left: 0;
+}
+
+.element-faq .love {
+  position: absolute;
+  width: 47px;
+  height: 45px;
+  top: 0;
+  left: 237px;
+}
+
+.element-faq .overlap-13 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  background-color: #f5f6f2;
+  border-radius: 22.5px;
+}
+
+.element-faq .bg-5 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 302px;
+  background-color: #eaeaea;
+}
+
+.element-faq .bg-6 {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 0;
+  left: 216px;
+  background-color: #eaeaea;
+}

@@ -1,0 +1,2320 @@
+.element-home-three {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-home-three .div {
+  background-color: var(--white);
+  overflow: hidden;
+  width: 1920px;
+  height: 6249px;
+  position: relative;
+}
+
+.element-home-three .footer {
+  position: absolute;
+  width: 1920px;
+  height: 606px;
+  top: 5643px;
+  left: 0;
+  background-color: #f6f6f7;
+}
+
+.element-home-three .info-bar {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  top: 80px;
+  left: 240px;
+  background-image: url(https://c.animaapp.com/m98dxe2nxnkiYc/img/line-1.svg);
+  background-size: 100% 100%;
+}
+
+.element-home-three .line {
+  left: 360px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-home-three .img {
+  left: 691px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-home-three .line-2 {
+  left: 1062px;
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 20px;
+}
+
+.element-home-three .element {
+  position: absolute;
+  width: 258px;
+  height: 36px;
+  top: 27px;
+  left: 40px;
+}
+
+.element-home-three .free-shipping-free {
+  position: absolute;
+  width: 206px;
+  height: 32px;
+  top: 2px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-home-three .text-wrapper {
+  font-weight: 600;
+  color: #141414;
+  line-height: 20px;
+}
+
+.element-home-three .span {
+  color: #74787c;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.element-home-three .img-2 {
+  width: 36px;
+  height: 36px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.element-home-three .element-2 {
+  position: absolute;
+  width: 204px;
+  height: 32px;
+  top: 29px;
+  left: 425px;
+}
+
+.element-home-three .free-returns-days {
+  position: absolute;
+  width: 152px;
+  height: 32px;
+  top: 0;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-home-three .delivery-van {
+  position: absolute;
+  width: 36px;
+  height: 27px;
+  top: 3px;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-home-three .element-3 {
+  position: absolute;
+  width: 244px;
+  height: 36px;
+  top: 27px;
+  left: 756px;
+}
+
+.element-home-three .secured-payments-we {
+  position: absolute;
+  width: 192px;
+  height: 32px;
+  top: 3px;
+  left: 50px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-home-three .element-4 {
+  position: absolute;
+  width: 218px;
+  height: 36px;
+  top: 27px;
+  left: 1127px;
+}
+
+.element-home-three .customer-service-top {
+  position: absolute;
+  width: 162px;
+  height: 32px;
+  top: 3px;
+  left: 54px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.element-home-three .element-hours {
+  position: absolute;
+  width: 44px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element-home-three .element-5 {
+  position: absolute;
+  width: 128px;
+  height: 204px;
+  top: 250px;
+  left: 686px;
+}
+
+.element-home-three .arrow-right-arrow {
+  position: absolute;
+  width: 14px;
+  height: 156px;
+  top: 48px;
+  left: 0;
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.element-home-three .text-wrapper-2 {
+  color: #141414;
+  line-height: 36px;
+}
+
+.element-home-three .text-wrapper-3 {
+  color: #74787c;
+  line-height: 36px;
+}
+
+.element-home-three .our-story-our {
+  position: absolute;
+  width: 98px;
+  height: 156px;
+  top: 48px;
+  left: 26px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.element-home-three .title {
+  position: absolute;
+  width: 109px;
+  height: 13px;
+  top: 0;
+  left: 0;
+}
+
+.element-home-three .text-wrapper-4 {
+  width: 107px;
+  position: absolute;
+  height: 13px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-6 {
+  position: absolute;
+  width: 163px;
+  height: 204px;
+  top: 250px;
+  left: 911px;
+}
+
+.element-home-three .b-wrapper {
+  position: absolute;
+  width: 106px;
+  height: 13px;
+  top: 0;
+  left: 0;
+}
+
+.element-home-three .b {
+  width: 104px;
+  position: absolute;
+  height: 13px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .arrow-right-arrow-2 {
+  position: absolute;
+  width: 14px;
+  height: 156px;
+  top: 48px;
+  left: 0;
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.element-home-three .custom-service {
+  position: absolute;
+  width: 133px;
+  height: 156px;
+  top: 48px;
+  left: 26px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.element-home-three .element-7 {
+  position: absolute;
+  width: 308px;
+  height: 190px;
+  top: 250px;
+  left: 1379px;
+}
+
+.element-home-three .overlap-group {
+  position: absolute;
+  width: 300px;
+  height: 55px;
+  top: 85px;
+  left: 0;
+  background-color: var(--white);
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #0000001f;
+}
+
+.element-home-three .text-wrapper-5 {
+  position: absolute;
+  height: 16px;
+  top: 16px;
+  left: 23px;
+  font-family: "Font Awesome 6 Pro-Light", Helvetica;
+  font-weight: 300;
+  color: var(--title-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-6 {
+  position: absolute;
+  height: 23px;
+  top: 13px;
+  left: 51px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .p {
+  position: absolute;
+  width: 257px;
+  height: 11px;
+  top: 49px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .div-wrapper {
+  position: absolute;
+  width: 138px;
+  height: 13px;
+  top: 0;
+  left: 0;
+}
+
+.element-home-three .b-2 {
+  width: 136px;
+  position: absolute;
+  height: 13px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .overlap {
+  position: absolute;
+  width: 126px;
+  height: 40px;
+  top: 150px;
+  left: 0;
+  background-color: var(--color-three);
+  border-radius: 5px;
+}
+
+.element-home-three .subs-cribe {
+  position: absolute;
+  height: 20px;
+  top: 10px;
+  left: 23px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--white);
+  font-size: 14px;
+  letter-spacing: 0.56px;
+  line-height: normal;
+}
+
+.element-home-three .element-8 {
+  position: absolute;
+  width: 111px;
+  height: 204px;
+  top: 250px;
+  left: 1171px;
+}
+
+.element-home-three .facebook-dribbble {
+  position: absolute;
+  width: 75px;
+  height: 156px;
+  top: 48px;
+  left: 32px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.element-home-three .text-wrapper-7 {
+  width: 18px;
+  height: 156px;
+  top: 48px;
+  left: 0;
+  font-family: "Font Awesome 6 Brands-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  line-height: 36px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-home-three .element-9 {
+  position: absolute;
+  width: 347px;
+  height: 177px;
+  top: 251px;
+  left: 240px;
+}
+
+.element-home-three .text-wrapper-8 {
+  position: absolute;
+  width: 345px;
+  height: 38px;
+  top: 59px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element-home-three .call {
+  position: absolute;
+  width: 263px;
+  height: 50px;
+  top: 127px;
+  left: 0;
+}
+
+.element-home-three .group {
+  position: absolute;
+  width: 200px;
+  height: 39px;
+  top: 6px;
+  left: 65px;
+}
+
+.element-home-three .text-wrapper-9 {
+  position: absolute;
+  width: 176px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-10 {
+  width: 196px;
+  height: 17px;
+  top: 22px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--color-three);
+  font-size: 24px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-home-three .overlap-group-2 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  border-radius: 25px;
+}
+
+.element-home-three .text-wrapper-11 {
+  height: 18px;
+  top: 16px;
+  left: 16px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: var(--color-three);
+  font-size: 18px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-home-three .logo {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 157px;
+  height: 36px;
+}
+
+.element-home-three .bottom {
+  position: absolute;
+  width: 1442px;
+  height: 72px;
+  top: 534px;
+  left: 240px;
+}
+
+.element-home-three .overlap-2 {
+  position: relative;
+  width: 1440px;
+  height: 72px;
+  background-color: #885b3a1a;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.element-home-three .payment {
+  position: absolute;
+  width: 264px;
+  height: 24px;
+  top: 24px;
+  left: 1136px;
+  object-fit: cover;
+}
+
+.element-home-three .copyright-design {
+  position: absolute;
+  height: 23px;
+  top: 25px;
+  left: 40px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--title-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .blog {
+  position: absolute;
+  width: 1442px;
+  height: 553px;
+  top: 4990px;
+  left: 240px;
+}
+
+.element-home-three .our-latest-news {
+  position: absolute;
+  width: 487px;
+  height: 26px;
+  top: 0;
+  left: 477px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-10 {
+  position: absolute;
+  width: 464px;
+  height: 467px;
+  top: 86px;
+  left: 0;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 30px 42px #0000000a;
+}
+
+.element-home-three .bg {
+  position: absolute;
+  width: 464px;
+  height: 250px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 6px 6px 0px 0px;
+}
+
+.element-home-three .content {
+  position: absolute;
+  width: 388px;
+  height: 137px;
+  top: 290px;
+  left: 40px;
+}
+
+.element-home-three .read-more {
+  position: absolute;
+  width: 97px;
+  height: 11px;
+  top: 126px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-12 {
+  font-weight: 500;
+  color: #885b3a;
+}
+
+.element-home-three .text-wrapper-13 {
+  font-family: "Font Awesome 6 Pro-Regular", Helvetica;
+  color: #885b3a;
+}
+
+.element-home-three .how-to-decorate-your {
+  position: absolute;
+  width: 345px;
+  height: 42px;
+  top: 35px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.element-home-three .time {
+  position: absolute;
+  width: 93px;
+  height: 10px;
+  top: 0;
+  left: 131px;
+}
+
+.element-home-three .oil-change {
+  position: absolute;
+  width: 72px;
+  height: 9px;
+  top: 1px;
+  left: 17px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-14 {
+  width: 12px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: var(--color-three);
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-home-three .date {
+  position: absolute;
+  width: 112px;
+  height: 10px;
+  top: 0;
+  left: 0;
+}
+
+.element-home-three .march {
+  position: absolute;
+  width: 92px;
+  height: 9px;
+  top: 1px;
+  left: 16px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-15 {
+  width: 11px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: var(--color-three);
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.element-home-three .bg-2 {
+  position: absolute;
+  width: 384px;
+  height: 1px;
+  top: 107px;
+  left: 0;
+  background-color: #eaeaea;
+}
+
+.element-home-three .element-11 {
+  position: absolute;
+  width: 464px;
+  height: 467px;
+  top: 86px;
+  left: 488px;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 30px 42px #0000000a;
+}
+
+.element-home-three .overlap-group-wrapper {
+  position: absolute;
+  width: 464px;
+  height: 467px;
+  top: 86px;
+  left: 976px;
+}
+
+.element-home-three .overlap-group-3 {
+  position: relative;
+  height: 467px;
+}
+
+.element-home-three .bg-3 {
+  position: absolute;
+  width: 464px;
+  height: 462px;
+  top: 5px;
+  left: 0;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 30px 42px #0000000a;
+}
+
+.element-home-three .testimonials {
+  position: absolute;
+  width: 1922px;
+  height: 560px;
+  top: 4330px;
+  left: 0;
+}
+
+.element-home-three .overlap-3 {
+  position: relative;
+  width: 1920px;
+  height: 560px;
+  background-image: url(https://c.animaapp.com/m98dxe2nxnkiYc/img/rectangle-30.svg);
+  background-size: 100% 100%;
+}
+
+.element-home-three .text-wrapper-16 {
+  position: absolute;
+  width: 343px;
+  height: 26px;
+  top: 100px;
+  left: 789px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--white);
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-12 {
+  position: absolute;
+  width: 472px;
+  height: 275px;
+  top: 186px;
+  left: 240px;
+}
+
+.element-home-three .overlap-group-4 {
+  position: relative;
+  width: 528px;
+  height: 291px;
+  top: -16px;
+  left: -32px;
+}
+
+.element-home-three .bg-4 {
+  position: absolute;
+  width: 528px;
+  height: 269px;
+  top: 0;
+  left: 0;
+}
+
+.element-home-three .text-wrapper-17 {
+  position: absolute;
+  width: 384px;
+  height: 64px;
+  top: 97px;
+  left: 72px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element-home-three .text-wrapper-18 {
+  position: absolute;
+  width: 109px;
+  height: 11px;
+  top: 56px;
+  left: 72px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-19 {
+  position: absolute;
+  top: 56px;
+  left: 355px;
+  font-family: "Font Awesome 5 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: #885b3a;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.element-home-three .alaxis-d-dowson-head {
+  position: absolute;
+  height: 41px;
+  top: 246px;
+  left: 140px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.element-home-three .text-wrapper-20 {
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 20px;
+}
+
+.element-home-three .text-wrapper-21 {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.element-home-three .bg-5 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 241px;
+  left: 72px;
+  object-fit: cover;
+}
+
+.element-home-three .overlap-wrapper {
+  position: absolute;
+  width: 472px;
+  height: 275px;
+  top: 186px;
+  left: 728px;
+}
+
+.element-home-three .element-13 {
+  position: absolute;
+  width: 472px;
+  height: 275px;
+  top: 186px;
+  left: 1216px;
+}
+
+.element-home-three .popular-shop {
+  position: absolute;
+  width: 1442px;
+  height: 642px;
+  top: 3588px;
+  left: 240px;
+}
+
+.element-home-three .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 642px;
+  background-color: #ebebe9;
+  border-radius: 6px;
+}
+
+.element-home-three .shop-popular {
+  position: absolute;
+  width: 229px;
+  height: 21px;
+  top: 60px;
+  left: 60px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-14 {
+  position: absolute;
+  width: 318px;
+  height: 461px;
+  top: 121px;
+  left: 60px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-2 {
+  position: absolute;
+  width: 234px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .text-wrapper-22 {
+  position: absolute;
+  height: 29px;
+  top: 16px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .text-wrapper-23 {
+  width: 65px;
+  height: 11px;
+  top: 87px;
+  left: 0;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .table-office {
+  position: absolute;
+  width: 78px;
+  height: 9px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-24 {
+  position: absolute;
+  width: 100px;
+  height: 10px;
+  top: 52px;
+  left: 0;
+  font-family: "Font Awesome 6 Free-Solid", Helvetica;
+  font-weight: 400;
+  color: var(--color-three);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.element-home-three .tag {
+  left: 230px;
+  position: absolute;
+  width: 57px;
+  height: 55px;
+  top: 30px;
+}
+
+.element-home-three .overlap-group-5 {
+  position: relative;
+  width: 55px;
+  height: 55px;
+  background-color: var(--color-three);
+  border-radius: 27.5px;
+}
+
+.element-home-three .text-wrapper-25 {
+  position: absolute;
+  height: 23px;
+  top: 16px;
+  left: 12px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--white);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .element-15 {
+  position: absolute;
+  width: 318px;
+  height: 461px;
+  top: 121px;
+  left: 394px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-3 {
+  position: absolute;
+  width: 241px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .element-16 {
+  position: absolute;
+  width: 318px;
+  height: 461px;
+  top: 121px;
+  left: 728px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-4 {
+  position: absolute;
+  width: 220px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .element-17 {
+  position: absolute;
+  width: 318px;
+  height: 461px;
+  top: 121px;
+  left: 1062px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-5 {
+  position: absolute;
+  width: 229px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .why-choose-us {
+  position: absolute;
+  width: 1924px;
+  height: 700px;
+  top: 2788px;
+  left: 0;
+}
+
+.element-home-three .overlap-5 {
+  position: relative;
+  width: 1920px;
+  height: 700px;
+  background-image: url(https://c.animaapp.com/m98dxe2nxnkiYc/img/bg-4.png);
+  background-size: 100% 100%;
+}
+
+.element-home-three .img-3 {
+  position: absolute;
+  width: 840px;
+  height: 700px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.element-home-three .we-re-online {
+  position: absolute;
+  width: 596px;
+  height: 26px;
+  top: 120px;
+  left: 960px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--white);
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 46px;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-26 {
+  position: absolute;
+  width: 671px;
+  height: 38px;
+  top: 176px;
+  left: 960px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--white);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element-home-three .element-18 {
+  position: absolute;
+  width: 510px;
+  height: 83px;
+  top: 271px;
+  left: 960px;
+}
+
+.element-home-three .vector-wrapper {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 3px;
+  left: 0;
+  background-color: var(--white);
+  border-radius: 40px;
+}
+
+.element-home-three .vector {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 21px;
+  left: 21px;
+}
+
+.element-home-three .text-wrapper-27 {
+  position: absolute;
+  height: 29px;
+  top: 0;
+  left: 102px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--white);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .text-wrapper-28 {
+  position: absolute;
+  width: 404px;
+  height: 37px;
+  top: 41px;
+  left: 102px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--white);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element-home-three .element-19 {
+  position: absolute;
+  width: 510px;
+  height: 83px;
+  top: 386px;
+  left: 960px;
+}
+
+.element-home-three .vector-2 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 18px;
+  left: 20px;
+}
+
+.element-home-three .element-20 {
+  position: absolute;
+  width: 510px;
+  height: 83px;
+  top: 501px;
+  left: 960px;
+}
+
+.element-home-three .vector-3 {
+  position: absolute;
+  width: 31px;
+  height: 33px;
+  top: 24px;
+  left: 25px;
+}
+
+.element-home-three .hot-products {
+  position: absolute;
+  width: 1920px;
+  height: 1276px;
+  top: 1512px;
+  left: 0;
+  background-color: #ebebe9;
+}
+
+.element-home-three .title-2 {
+  position: absolute;
+  width: 511px;
+  height: 90px;
+  top: 100px;
+  left: 707px;
+}
+
+.element-home-three .featured-items {
+  position: absolute;
+  height: 52px;
+  top: 0;
+  left: 108px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .hot-items-best {
+  position: absolute;
+  width: 507px;
+  height: 11px;
+  top: 79px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-21 {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 230px;
+  left: 240px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-6 {
+  position: absolute;
+  width: 252px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .tag-2 {
+  left: 257px;
+  position: absolute;
+  width: 57px;
+  height: 55px;
+  top: 30px;
+}
+
+.element-home-three .element-22 {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 715px;
+  left: 240px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .element-23 {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 230px;
+  left: 606px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .element-24 {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 715px;
+  left: 606px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-wrapper {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 230px;
+  left: 972px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-7 {
+  position: relative;
+  width: 242px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .element-25 {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 715px;
+  left: 972px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .element-26 {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 230px;
+  left: 1338px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-8 {
+  position: absolute;
+  width: 211px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .element-27 {
+  position: absolute;
+  width: 342px;
+  height: 461px;
+  top: 715px;
+  left: 1338px;
+  background-color: var(--white);
+  border-radius: 6px;
+}
+
+.element-home-three .content-9 {
+  position: absolute;
+  width: 205px;
+  height: 98px;
+  top: 333px;
+  left: 30px;
+}
+
+.element-home-three .banner {
+  position: absolute;
+  width: 1440px;
+  height: 400px;
+  top: 1012px;
+  left: 240px;
+}
+
+.element-home-three .element-28 {
+  position: absolute;
+  width: 708px;
+  height: 400px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/m98dxe2nxnkiYc/img/img-.png);
+  background-size: 100% 100%;
+}
+
+.element-home-three .content-10 {
+  position: absolute;
+  width: 256px;
+  height: 182px;
+  top: 50px;
+  left: 50px;
+}
+
+.element-home-three .btn {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 182px;
+  height: 50px;
+  top: 132px;
+  left: 0;
+}
+
+.element-home-three .start-shopping-wrapper {
+  position: relative;
+  width: 180px;
+  height: 50px;
+  background-color: var(--color-three);
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #885b3a;
+}
+
+.element-home-three .start-shopping {
+  position: absolute;
+  height: 20px;
+  top: 14px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--white);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .text-wrapper-29 {
+  position: absolute;
+  width: 250px;
+  height: 28px;
+  top: 32px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .online-promo-code {
+  position: absolute;
+  width: 225px;
+  height: 12px;
+  top: 95px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-30 {
+  color: #74787c;
+}
+
+.element-home-three .text-wrapper-31 {
+  font-weight: 500;
+  color: #141414;
+}
+
+.element-home-three .text-wrapper-32 {
+  font-weight: 700;
+  color: #885b3a;
+  text-decoration: underline;
+}
+
+.element-home-three .unique-office-table {
+  position: absolute;
+  width: 147px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--color-three);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .time-table {
+  position: absolute;
+  width: 204px;
+  height: 35px;
+  top: 315px;
+  left: 50px;
+}
+
+.element-home-three .element-29 {
+  position: absolute;
+  width: 49px;
+  height: 35px;
+  top: 0;
+  left: 0;
+}
+
+.element-home-three .overlap-group-6 {
+  position: relative;
+  width: 45px;
+  height: 35px;
+  background-color: #f0f0f091;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #1a1a1a2b;
+}
+
+.element-home-three .text-wrapper-33 {
+  width: 17px;
+  top: 12px;
+  left: 9px;
+  position: absolute;
+  height: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: -0.28px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-34 {
+  position: absolute;
+  width: 8px;
+  height: 10px;
+  top: 12px;
+  left: 26px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c99;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-30 {
+  position: absolute;
+  width: 49px;
+  height: 35px;
+  top: 0;
+  left: 53px;
+}
+
+.element-home-three .text-wrapper-35 {
+  width: 17px;
+  top: 11px;
+  left: 9px;
+  position: absolute;
+  height: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: -0.28px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-36 {
+  position: absolute;
+  width: 8px;
+  height: 10px;
+  top: 11px;
+  left: 26px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c99;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-31 {
+  position: absolute;
+  width: 49px;
+  height: 35px;
+  top: 0;
+  left: 106px;
+}
+
+.element-home-three .text-wrapper-37 {
+  width: 17px;
+  top: 11px;
+  left: 8px;
+  position: absolute;
+  height: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: -0.28px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-38 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 11px;
+  left: 25px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c99;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-32 {
+  position: absolute;
+  width: 49px;
+  height: 35px;
+  top: 0;
+  left: 159px;
+}
+
+.element-home-three .text-wrapper-39 {
+  width: 18px;
+  top: 11px;
+  left: 9px;
+  position: absolute;
+  height: 10px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: -0.28px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-40 {
+  position: absolute;
+  width: 6px;
+  height: 10px;
+  top: 11px;
+  left: 27px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #74787c99;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-33 {
+  position: absolute;
+  width: 708px;
+  height: 400px;
+  top: 0;
+  left: 732px;
+  background-image: url(https://c.animaapp.com/m98dxe2nxnkiYc/img/img--1.png);
+  background-size: 100% 100%;
+}
+
+.element-home-three .content-11 {
+  position: absolute;
+  width: 313px;
+  height: 182px;
+  top: 50px;
+  left: 50px;
+}
+
+.element-home-three .overlap-group-7 {
+  position: relative;
+  width: 180px;
+  height: 50px;
+  background-color: var(--white);
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: #885b3a;
+}
+
+.element-home-three .start-shopping-2 {
+  position: absolute;
+  height: 20px;
+  top: 13px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--color-three);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .text-wrapper-41 {
+  position: absolute;
+  width: 246px;
+  height: 28px;
+  top: 32px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-42 {
+  position: absolute;
+  width: 307px;
+  height: 12px;
+  top: 95px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .elegant-comfort {
+  position: absolute;
+  width: 179px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--color-three);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .slider {
+  position: absolute;
+  width: 1920px;
+  height: 670px;
+  top: 242px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/m98dxe2nxnkiYc/img/bg-5.png);
+  background-size: 100% 100%;
+}
+
+.element-home-three .content-12 {
+  position: relative;
+  width: 505px;
+  height: 260px;
+  top: 205px;
+  left: 240px;
+}
+
+.element-home-three .ready-item {
+  position: absolute;
+  width: 224px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 300;
+  color: var(--title-color);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .home-decor {
+  position: absolute;
+  width: 499px;
+  height: 59px;
+  top: 52px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 700;
+  color: var(--title-color);
+  font-size: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-43 {
+  position: absolute;
+  width: 136px;
+  height: 17px;
+  top: 151px;
+  left: 0;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--title-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 172px;
+  height: 45px;
+  top: 215px;
+  left: 0;
+}
+
+.element-home-three .explore-items-wrapper {
+  position: relative;
+  width: 170px;
+  height: 45px;
+  border: 1px solid;
+  border-color: #141414;
+}
+
+.element-home-three .explore-items {
+  position: absolute;
+  height: 20px;
+  top: 12px;
+  left: 30px;
+  font-family: "Jost", Helvetica;
+  font-weight: 700;
+  color: var(--title-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .header {
+  position: absolute;
+  width: 1944px;
+  height: 224px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.element-home-three .home-shop-blog-pages {
+  position: absolute;
+  height: 20px;
+  top: 202px;
+  left: 240px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--title-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .text-wrapper-44 {
+  position: absolute;
+  width: 166px;
+  height: 11px;
+  top: 208px;
+  left: 1449px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--title-color);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .sale-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  top: 204px;
+  left: 1630px;
+  background-color: var(--color-three);
+  border-radius: 100px;
+}
+
+.element-home-three .sale {
+  width: 30px;
+  height: 9px;
+  top: 5px;
+  left: 10px;
+  font-weight: 700;
+  color: var(--white);
+  font-size: 12px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .element-off-everything-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 42px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/m98dxe2nxnkiYc/img/rectangle-30.svg);
+  background-size: 100% 100%;
+}
+
+.element-home-three .element-off-everything {
+  position: absolute;
+  height: 20px;
+  top: 11px;
+  left: 771px;
+  font-family: "Jost", Helvetica;
+  font-weight: 600;
+  color: var(--white);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .call-us {
+  position: absolute;
+  width: 207px;
+  height: 5px;
+  top: 63px;
+  left: 1320px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-45 {
+  font-weight: 600;
+  color: #885b3a;
+}
+
+.element-home-three .logo-2 {
+  top: 121px;
+  left: 240px;
+  position: absolute;
+  width: 157px;
+  height: 36px;
+}
+
+.element-home-three .bg-6 {
+  position: absolute;
+  width: 1920px;
+  height: 1px;
+  top: 87px;
+  left: 0;
+}
+
+.element-home-three .bg-7 {
+  position: absolute;
+  width: 1920px;
+  height: 1px;
+  top: 186px;
+  left: 0;
+}
+
+.element-home-three .text-wrapper-46 {
+  height: 10px;
+  top: 60px;
+  left: 1568px;
+  position: absolute;
+  width: 43px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-47 {
+  position: absolute;
+  width: 23px;
+  height: 10px;
+  top: 60px;
+  left: 1657px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .right {
+  position: absolute;
+  width: 165px;
+  height: 21px;
+  top: 130px;
+  left: 1511px;
+}
+
+.element-home-three .text-wrapper-48 {
+  top: 1px;
+  left: 29px;
+  font-weight: 500;
+  color: #999999;
+  font-size: 14px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .icon {
+  width: 23px;
+  left: 96px;
+  position: absolute;
+  height: 20px;
+  top: 0;
+}
+
+.element-home-three .icon-2 {
+  width: 19px;
+  left: 144px;
+  position: absolute;
+  height: 20px;
+  top: 0;
+}
+
+.element-home-three .icon-3 {
+  width: 22px;
+  left: 0;
+  position: absolute;
+  height: 20px;
+  top: 0;
+}
+
+.element-home-three .rectangle {
+  position: absolute;
+  width: 1px;
+  height: 45px;
+  top: 42px;
+  left: 1547px;
+  background-color: #885b3a29;
+}
+
+.element-home-three .search {
+  position: absolute;
+  width: 939px;
+  height: 45px;
+  top: 116px;
+  left: 458px;
+}
+
+.element-home-three .box {
+  width: 781px;
+  height: 45px;
+  left: 160px;
+  position: absolute;
+  top: 0;
+}
+
+.element-home-three .overlap-group-8 {
+  position: relative;
+  width: 779px;
+  height: 45px;
+  background-color: var(--white);
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #e4e5ee;
+}
+
+.element-home-three .btn-2 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 13px;
+  left: 743px;
+}
+
+.element-home-three .text-wrapper-49 {
+  position: absolute;
+  height: 20px;
+  top: 11px;
+  left: 24px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .overlap-wrapper-2 {
+  position: absolute;
+  width: 152px;
+  height: 45px;
+  top: 0;
+  left: 0;
+}
+
+.element-home-three .overlap-6 {
+  position: relative;
+  width: 150px;
+  height: 45px;
+  background-color: #f6f6f7;
+  border-radius: 3px;
+}
+
+.element-home-three .bar {
+  position: absolute;
+  width: 16px;
+  height: 12px;
+  top: 17px;
+  left: 24px;
+}
+
+.element-home-three .rectangle-2 {
+  position: absolute;
+  width: 16px;
+  height: 2px;
+  top: 0;
+  left: 0;
+  background-color: var(--title-color);
+}
+
+.element-home-three .rectangle-3 {
+  position: absolute;
+  width: 10px;
+  height: 2px;
+  top: 5px;
+  left: 0;
+  background-color: var(--title-color);
+}
+
+.element-home-three .rectangle-4 {
+  position: absolute;
+  width: 16px;
+  height: 2px;
+  top: 10px;
+  left: 0;
+  background-color: var(--title-color);
+}
+
+.element-home-three .text-wrapper-50 {
+  position: absolute;
+  height: 20px;
+  top: 13px;
+  left: 49px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: var(--title-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-three .text-wrapper-51 {
+  position: absolute;
+  width: 70px;
+  height: 5px;
+  top: 63px;
+  left: 240px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-52 {
+  height: 5px;
+  top: 63px;
+  left: 335px;
+  position: absolute;
+  width: 43px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-53 {
+  position: absolute;
+  width: 55px;
+  height: 5px;
+  top: 63px;
+  left: 403px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-54 {
+  width: 45px;
+  height: 5px;
+  top: 63px;
+  left: 483px;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  position: absolute;
+  font-family: "Jost", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-home-three .text-wrapper-55 {
+  position: absolute;
+  width: 26px;
+  height: 5px;
+  top: 63px;
+  left: 553px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: var(--content-color);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
